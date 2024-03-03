@@ -1,8 +1,33 @@
 .yellow{
-    padding: 20px;
-    gap: 40px;
+    padding: 1px;
+    background-color: yellow;
+    border: 1px;
+    border: solid 1px;
 
 }
 form{
     padding: 20px;
+}
+#case{
+    text-align: right;
+    padding: px 20px;
+}
+.team{
+    display: flex;
+    text-align: right;
+    justify-content: right;
+    
+    
+}
+#button{
+    color: white;
+    background-color: black;
+    padding: 1px;
+    border: solid 2px;
+}
+.page{
+position: absolute;
+right: 3%;
+top: 5%;
+
 }
