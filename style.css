@@ -37,7 +37,13 @@ top: 5%;
     justify-content: center;
     padding: 20px;
     gap: 10px;
+<<<<<<< HEAD
     margin-left: 60px;
     font-size: larger;
+=======
+    position: absolute;
+    bottom: 500px;
+    margin-left: 600px;
+>>>>>>> master
 
 }
