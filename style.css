@@ -31,3 +31,14 @@ right: 3%;
 top: 5%;
 
 }
+.form{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 10px;
+    position: absolute;
+    bottom: 500px;
+    margin-left: 600px;
+
+}
